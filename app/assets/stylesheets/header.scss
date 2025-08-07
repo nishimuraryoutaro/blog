@@ -12,6 +12,10 @@ $back-icon-size: 16px;
   font-weight: bold;
   justify-content: flex-end;
 
+  a {
+    color: white;
+  }
+
   &_loginBtn {
     display: inline-block;
     background-color: $base-bg-color;
